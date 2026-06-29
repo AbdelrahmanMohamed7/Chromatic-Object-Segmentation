@@ -1,3 +1,4 @@
+```markdown
 # Chromatic Object Segmentation Engine
 
 A Python-based computer vision tool designed to explore color space transformations and isolate specific target objects from image frames using color masking strategies.
@@ -18,15 +19,15 @@ This project implements image filtering routines to cleanly separate yellow obje
 1. Clone this repository to your machine:
    ```bash
    git clone [https://github.com/AbdelrahmanMohamed7/chromatic-object-segmentation.git](https://github.com/AbdelrahmanMohamed7/chromatic-object-segmentation.git)
-...
 
+```
 
 2. Install the required computer vision packages:
 * **Windows:**
-~```Bash
+```bash
 pip install opencv-python numpy
-...```
 
+```
 
 
 * **macOS:**
@@ -49,3 +50,13 @@ python "Object Detecion.py"
 * **macOS:**
 ```bash
 python3 "Object Detecion.py"
+
+```
+
+
+
+
+
+```
+
+```
