@@ -1,4 +1,3 @@
-```markdown
 # Chromatic Object Segmentation Engine
 
 A Python-based computer vision tool designed to explore color space transformations and isolate specific target objects from image frames using color masking strategies.
