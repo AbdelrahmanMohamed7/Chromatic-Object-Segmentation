@@ -18,15 +18,15 @@ This project implements image filtering routines to cleanly separate yellow obje
 1. Clone this repository to your machine:
    ```bash
    git clone [https://github.com/AbdelrahmanMohamed7/chromatic-object-segmentation.git](https://github.com/AbdelrahmanMohamed7/chromatic-object-segmentation.git)
+...
 
-```
 
 2. Install the required computer vision packages:
 * **Windows:**
-```bash
+~```Bash
 pip install opencv-python numpy
+...```
 
-```
 
 
 * **macOS:**
